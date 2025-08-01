@@ -6,9 +6,6 @@ The model helps individuals or businesses in the used car market estimate fair c
 
 ---
 
-
----
-
 ## Dataset
 
 - **Source**: open-source used car listings
